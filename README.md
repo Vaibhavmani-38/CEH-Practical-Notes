@@ -361,6 +361,8 @@ run
 | [https://virustotal.com](https://virustotal.com/) | Check URL/IP for malicious behavior |
 | [https://mxtoolbox.com](https://mxtoolbox.com/) | DNS/MX/Blacklist checks |
 | [https://geopeeker.com](https://geopeeker.com/) | View how site looks from different locations |
+| [https://whois.domaintools.com/] | arget domain information such as the owner, its registrar, registration details, name server, contact information, etc. |
+
 |  |  |
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
